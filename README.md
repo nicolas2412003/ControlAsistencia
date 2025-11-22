@@ -28,4 +28,4 @@ El sistema permite registrar, consultar y analizar la asistencia de estudiantes.
 
 
 ## Autor
-Nicolás Gambino — Estudiante de Ingeniería de Software
+Nicolás Herrera — Estudiante de Ingeniería de Software
